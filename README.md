@@ -1,3 +1,3 @@
 # first-repo 
 this is my first repo.....
-written by muhammad atif waheed
+written by muhammad atif
